@@ -1,1 +1,1 @@
-# Lab_Fiz
+# Excel na laboratoria z fizyki
